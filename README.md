@@ -65,9 +65,9 @@ Crie um projeto no Firebase e utilize, **Firestore**, **Cloud Functions** e **Ho
   - Para armazenar as Tags; 
 
 - **Cloud Functions:**
-  - Para criar sua API REST, com os verbos necessários para criar, ler, alterar e deletar Tarefas e Tags;
+  - Para criar sua API REST (Node e Express), com os verbos necessários para criar, ler, alterar e deletar Tarefas e Tags;
   - Para fazer a build do Next.JS utilizando [SSR](https://nextjs.org/docs/basic-features/data-fetching#getserversideprops-server-side-rendering);
 
 - **Hosting**
-  - Para armazer a build do projeto em uma URL utlizando a CDN do Firebase;
+  - Para armazenar a build do projeto em uma URL utlizando a CDN do Firebase;
   - Para interagir com a build SSR do Next.js
